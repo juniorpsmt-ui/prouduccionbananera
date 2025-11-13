@@ -1,0 +1,4 @@
+user;permissions;empresa_id;name
+juniorpsmt@gmail.com;SUPER_ADMIN;ALL;Gerente Global
+empresaA@banano.com;ADMIN_EMPRESA;EMP001;Admin Empresa A
+operadorB@banano.com;OPERADOR_CADENA;EMP002;Op. Finca B
